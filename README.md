@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" height="30" alt="gif-programador"  />
+<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" height="90" alt="gif-programador"  />
 
 </div>
 
